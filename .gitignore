@@ -1,0 +1,28 @@
+# ============================================================
+# Test-generated files
+# ============================================================
+
+mem3/tests/test_file_keys/
+
+mem3/tests/sample_test_file.txt
+mem3/tests/encrypted_test_package.json
+mem3/tests/recovered_test_file.txt
+mem3/tests/integrity_test_file.txt
+mem3/tests/e2e_test_file.txt
+mem3/tests/tampering_test_file.txt
+
+mem3/tests/assignment.txt
+mem3/tests/ml_test.txt
+mem3/tests/report.pdf.txt
+mem3/tests/presentation.pptx.txt
+mem3/tests/random_*.bin
+mem3/tests/VERY_LONG_RANDOM_*.unknown
+mem3/tests/x9K*.bin
+
+# ============================================================
+# Generated application data
+# ============================================================
+
+mem3/storage/sender_output/secure_package/
+mem3/storage/receiver_input/
+mem3/storage/receiver_output/
